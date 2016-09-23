@@ -4,4 +4,4 @@ Full problem description for workshop: [Link](https://coursepress.lnu.se/kurs/ob
 
 ## Domain Model Diagram
 
-![WS1 Diagram](https://github.com/ps222nq/1DV607-workshops/blob/master/Screen%20Shot%202016-09-20%20at%2020.23.58.png?raw=true)
+![WS1 Diagram](https://github.com/ps222nq/1DV607-workshops/blob/master/img/Screen%20Shot%202016-09-20%20at%2020.23.58.png?raw=true)
